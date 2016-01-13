@@ -2,3 +2,8 @@
 On my new laptop.
 Back after a long hiatus.
 Looking forward to all the hell I can break loose :D
+
+Almost done with the basic stuff.. Have gotten ubuntu up to date.
+Done with installing java.
+
+What's remaining is eclipse, ruby, vlc -- surprising how little the list of programs I really use is!!
