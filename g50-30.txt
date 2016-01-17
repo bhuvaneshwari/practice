@@ -7,3 +7,5 @@ Almost done with the basic stuff.. Have gotten ubuntu up to date.
 Done with installing java.
 
 What's remaining is eclipse, ruby, vlc -- surprising how little the list of programs I really use is!!
+
+Well, something had to happen... wily werewolf had a lot of freezing issues.. it froze up after playing 20 minutes of media. bother! Going back a notch... Working on Trusty Tahr.. Hope it lives up to its name!!
